@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "562595013437",
+    "firebase_url": "https://travellk-2d497.firebaseio.com",
+    "project_id": "travellk-2d497",
+    "storage_bucket": "travellk-2d497.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562595013437:android:54fe0428d22baa98",
+        "android_client_info": {
+          "package_name": "com.example.damithavishmitha.travellk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562595013437-0cg6c8cqteq0o5a44tijskbn94nvhtua.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.damithavishmitha.travellk",
+            "certificate_hash": "a56d0919e9be2d9651a4298aeb5af5cc632b23ed"
+          }
+        },
+        {
+          "client_id": "562595013437-406fdhhrrbrrclku8te2cpqckeihq7hf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWBRDGOzaZHbyaMQvq53CLvdNr2N0ytEI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562595013437-406fdhhrrbrrclku8te2cpqckeihq7hf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
